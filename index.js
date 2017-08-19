@@ -1,5 +1,3 @@
-//Major thanks to Saegusa, Explosive Dong 69. Anyone else who needs to be credits let me know via Discord.
-
 module.exports = function EnableGM(dispatch) {
         
     let cid, player;
