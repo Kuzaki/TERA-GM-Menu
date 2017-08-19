@@ -9,3 +9,6 @@ Extract the .def files to tera-proxy\node_modules\tera-data\protocol
 
 Create a new folder at tera-proxy\tera-proxy\bin\node_modules and drag the index.js file.
 
+Go in game and type /w !gm on
+
+
