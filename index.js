@@ -8,7 +8,6 @@ module.exports = function EnableGM(dispatch) {
         cid = event.cid;
         player = event.name;
 		dispatch.toServer('C_ADMIN', 1, { enabled: 1 })
-        
     });
 
     dispatch.hook('C_WHISPER', 1, (event) => {
@@ -17,7 +16,7 @@ module.exports = function EnableGM(dispatch) {
                 dispatch.toClient('S_QA_SET_ADMIN_LEVEL', 1, { enabled: 1 })
 				dispatch.toServer('C_ADMIN', 1, { enabled: 1 })
 				dispatch.toClient('S_ADMIN_PRIVILEGE', 1, { enabled: 1 })
-				//dispatch.toClient('S_ADMIN_GET_USER_INFO_LIST_BY_DISTANCE', 1, { enabled: 1 })
+				dispatch.toClient('S_ADMIN_GET_USER_INFO_LIST_BY_DISTANCE', 1, { enabled: 1 })
                 message('GM Menu <font color="#E69F00">Enabled</font>.')
             }
             else if (/^<FONT>off?<\/FONT>$/i.test(event.message)) {
