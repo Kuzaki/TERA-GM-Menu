@@ -1,4 +1,7 @@
 # TERA-GM-Menu
+
+Due to the update of 8/25/2017 this mod has been patched. To avoid further conflict it's best to remove it until an update arrives.
+
 Allows you to open GM Menu in TERA. Can be opened by right clicking a player or by Alt+A.
 You will not be able to use trade, duel, inspect. It will be replaced with 'Review User Info' when right clicking someone in game. 
 Do it maually.
