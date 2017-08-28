@@ -12,8 +12,10 @@ Do it maually.
 
 2) Extract the .def files to tera-proxy\node_modules\tera-data\protocol
 
-3) Create a new folder at tera-proxy\tera-proxy\bin\node_modules and drag the index.js file.
+3) Go to tera-proxy\tera-proxy\node_modules\tera-data\map and open protocol.319982.map and paste in S_QA_SET_ADMIN_LEVEL = 51479 at the bottom. 
 
-4) Go in-game and type /w !gm on/off.
+4) Save file.
 
+5) Extract mod to tera-proxy\tera-proxy\bin\node_modules.
 
+6) Enjoy!
