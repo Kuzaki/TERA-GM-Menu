@@ -12,7 +12,7 @@ Do it maually.
 
 2) Extract the .def files to tera-proxy\node_modules\tera-data\protocol
 
-3) Go to tera-proxy\tera-proxy\node_modules\tera-data\map and open protocol.319982.map and paste in S_QA_SET_ADMIN_LEVEL = 51479 at the bottom. 
+3) Go to tera-proxy\tera-proxy\node_modules\tera-data\map and open protocol.319982.map and paste in S_QA_SET_ADMIN_LEVEL = 51479 at the bottom. I'll add the EU opcode later. Works for NA only right now.
 
 4) Save file.
 
