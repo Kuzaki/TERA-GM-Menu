@@ -1,6 +1,7 @@
 # TERA-GM-Menu
 
-Thanks to 레이븐 for helping me find the opcode for NA.
+Special Thanks to 레이븐 for sharing the opcode for NA/EU.
+Special Thanks to superseriousmeme for finding it.
 
 Allows you to open GM Menu in TERA. Can be opened by right clicking a player or by Alt+A.
 You will not be able to use trade, duel, inspect. It will be replaced with 'Review User Info' when right clicking someone in game. 
